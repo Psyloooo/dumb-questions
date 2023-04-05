@@ -1,0 +1,322 @@
+Je voulais te proposer de lire le début de son livre (Texte Ω  )  qui s'appelle un Dernier jour sur la Terre, je vais te donner les 14 remiers chapitres à lire et étudier , comprendre et savoir interpréter.  
+Alors je veux :
+ 1) que tu me comptes le nombre de caractères , de mots , de phrases et de pages en police 14    présenté en tableau pour les textes 2 et Ω  et Delta
+
+2)que tu me le résumes/raccourcisse/squeeze  en 10000 mots dans un fichier txt séparé nommé "Un dernier jour sur GPT" (texte 2)
+
+3) que tu me donne une note sur 6 critères (enjoyment|characters|atmospher|writing| plot |logic) à ranger dans un tableau pour les 3 versions 
+
+4)parametre bonus : tu n'as pas la fin du livre, je veux que tu me dises les conséquences les plus probables dans les pages 
+(preciser le nombre de pages restantes dans les scénarios 
+
+Une dernière chose, le texte est en français et je souhaite avoir tous les résultats en anglais 
+voila les instructions , pas la peine de répondre je t'envoie le gros morceau de texte. 
+
+
+
+
+
+
+
+Nombres de characters total : 453 + 567 =    10
+------------------------------
+-------------------- ||||   charcter  ||| words ||| spaces |||
+-------------|||| ------------------------------------------------
+-----1-49----||||||||||||     453 k |||||  78k ||||   76k  |||----
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||----
+------------------------------------------------------------------
+-----50-fin-------------------567k---------113k------110k---------
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+------------------------------------------------------------------
+------------------------------------------------------------------
+-----1-14 -------------------125k----|||----21k---||| 20k ||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sommaire
+
+Chapitre 1 Prologue facultatif
+
+Chapitre 2 Dernier Jour 5h00
+
+Chapitre 3 Cinq ans auparavant, Vol 345
+
+Chapitre 4 Dernier jour 6h25
+
+Chapitre 5 Quelques années auparavant : Théorème
+
+Chapitre 6 2 ans auparavant, Michael
+
+Chapitre 7 Dernier Jour 6h27
+
+Chapitre 8 5 ans auparavant, Post crash
+
+Chapitre 9 Dernier jour 6h45
+
+Chapitre 10 2 ans auparavant, Ruth & Tim
+
+Chapitre 11 Dernier jour 6h50
+
+Chapitre 12 5 ans auparavant, Lise
+
+Chapitre 13 Dernier jour 7h00
+
+Chapitre 14 2 ans auparavant, Daeffers & Shrieffer
+
+Chapitre 15 Dernier jour 7h01
+
+Chapitre 16 5 ans auparavant, La maison
+
+Chapitre 17 Dernier jour 7h02
+
+Chapitre 18 2 ans auparavant, Ada & Michael
+
+Chapitre 19 Dernier jour 7h12
+
+Chapitre 20 2 ans auparavant, Ruth & Tim
+
+Chapitre 21 Dernier jour 7h15
+
+Chapitre 22 4 ans auparavant, Esmeralda
+
+Chapitre 23 Dernier jour 8h30
+
+Chapitre 24 2 ans auparavant, Ada
+
+Chapitre 25 Dernier jour 8h45
+
+Chapitre 26 4 ans auparavant, Lise & Morgan
+
+Chapitre 27 Dernier jour 9h00
+
+Chapitre 28 2 ans auparavant, Zebra
+
+Chapitre 29 Dernier jour 9h16
+
+Chapitre 30 2 ans auparavant, Ruth & Tim
+
+Chapitre 31 Dernier jour 9h30
+
+Chapitre 32 4 ans auparavant, Lise & Morgan
+
+Chapitre 33 Dernier jour 9h45
+
+Chapitre 34 2 ans auparavant, Daeffers & Shrieffer
+
+Chapitre 35 Dernier jour 10h00
+
+Chapitre 36 3 ans auparavant, Eros
+
+Chapitre 37 Dernier jour 10h15
+
+Chapitre 38 2 ans auparavant, Zebra
+
+Chapitre 39 Dernier jour 10h48
+
+Chapitre 40 3 ans auparavant, Lise & Morgan
+
+Chapitre 41 Dernier jour 10h55
+
+Chapitre 42 2 ans auparavant, Ruth & Tim
+
+Chapitre 43 Dernier jour 11h12
+
+Chapitre 44 2 ans auparavant, Kourou
+
+Chapitre 45 Dernier jour 11h15
+
+Chapitre 46 2 ans auparavant, Michael piégé
+
+Chapitre 47 Dernier jour 11h36
+
+Chapitre 48 2 ans auparavant, Rita
+
+Chapitre 49 Dernier jour 11h38
+
+Chapitre 50 2 ans auparavant, Retrouvailles
+
+Chapitre 51 Dernier jour 12h00
+
+Chapitre 52 2 ans auparavant, Lise & Morgan
+
+Chapitre 53 Dernier jour 12h15
+
+Chapitre 54 2 ans auparavant, Rita
+
+Chapitre 55 Dernier jour 12h16
+
+Chapitre 56 2 ans auparavant, Objectif
+
+Chapitre 57 Dernier jour 12h21
+
+Chapitre 58 2 ans auparavant, Michael
+
+Chapitre 59 Dernier jour 12h23
+
+Chapitre 60 2 ans auparavant, Michael
+
+Chapitre 61 Dernier jour 12h25
+
+Chapitre 62 2 ans auparavant, Ada
+
+Chapitre 63 Dernier jour 12h27
+
+Chapitre 64 2 ans auparavant, Rita & Morgan
+
+Chapitre 65 Dernier jour 12h28
+
+Chapitre 66 2 ans auparavant, AK
+
+Chapitre 67 Dernier jour 12h29
+
+Chapitre 68 2 ans auparavant, Le salaud
+
+Chapitre 69 Dernier jour 12h30
+
+Chapitre 70 2 ans auparavant, Daeffers & Shrieffer
+
+Chapitre 71 Dernier jour 12h31
+
+Chapitre 72 2 ans auparavant, Le salaud
+
+Chapitre 73 Dernier jour 12h32
+
+Chapitre 74 2 ans auparavant, Daeffers & Shrieffer
+
+Chapitre 75 Dernier jour 12h33
+
+Chapitre 76 2 ans auparavant, Contre-attaque
+
+Chapitre 77 Dernier jour 12h34
+
+Chapitre 78 2 ans auparavant, Daeffers & Shrieffer
+
+Chapitre 79 Dernier jour 12h35
+
+Chapitre 80 2 ans auparavant, Objectif
+
+Chapitre 81 Dernier jour 12h36
+
+Chapitre 82 2 ans auparavant, Morgan
+
+Chapitre 83 Dernier jour 13h00
+
+Chapitre 84 2 ans auparavant, Claire Gustafson
+
+Chapitre 85 Dernier jour 13h30
+
+Chapitre 86 2 ans auparavant, Contrebande
+
+Chapitre 87 Dernier jour 14h00
+
+Chapitre 88 2 ans auparavant, Texas
+
+Chapitre 89 Dernier jour 15h00
+
+Chapitre 90 2 ans auparavant, Morgan
+
+Chapitre 91 Dernier jour 15h01
+
+Chapitre 92 2 ans auparavant, Tycho
+
+Chapitre 93 Dernier jour 15h02
+
+Chapitre 94 2 ans auparavant, Tycho
+
+Chapitre 95 Dernier jour 15h03
+
+Chapitre 96 2 ans auparavant, Tycho
+
+Chapitre 97 Dernier jour 15h15
+
+Chapitre 98 2 ans auparavant, Tycho
+
+Chapitre 99 Dernier jour 15h20
+
+Chapitre 100 2 ans auparavant, L'Annonce
+
+Chapitre 101 Dernier jour 15h25
+
+Chapitre 102 1 an et six mois auparavant, Morgan
+
+Chapitre 103 Dernier jour 15h30
+
+Chapitre 104 1 an et cinq mois auparavant, La lettre
+
+Chapitre 105 Dernier jour 15h35
+
+Chapitre 106 2 ans auparavant, L'Annonce
+
+Chapitre 107 Dernier jour 15h40
+
+Chapitre 108 1 an et quatre mois auparavant
+
+Chapitre 109 Dernier jour 17h22
+
+Chapitre 110 1 an et trois mois auparavant
+
+Chapitre 111 Dernier jour 17h23
+
+Chapitre 112 1 an et deux mois auparavant
+
+Chapitre 113 Dernier jour 17h24
+
+Chapitre 114 3 semaines auparavant
+
+Chapitre 115 Dernier jour 17h25
+
+Chapitre 116 Cinq jours auparavant
+
+Chapitre 117 Dernier jour 17h27
+
+Chapitre 118 Quatre jours auparavant
+
+Chapitre 119 Dernier jour 17h32
+
+Chapitre 120 Trois jours auparavant
+
+Chapitre 121 Dernier jour 17h34
+
+Chapitre 122 Dernier jour 17h36
+
+Chapitre 123 Dernier jour 20h28
+

@@ -1,0 +1,12 @@
+Je voulais te proposer de lire le début de son livre (Texte Ω  )  qui s'appelle un Dernier jour sur la Terre, je vais te donner les 49 premiers chapitres à lire et étudier , comprendre et savoir interpréter.  
+Alors je veux :
+ 1) que tu me comptes le nombre de caractères , de mots , de phrases et de pages en police 14    présenté en tableau pour les textes 2 et Ω  et Delta
+
+2)que tu me le résumes/raccourcisse/squeeze  en 10000 mots dans un fichier txt séparé nommé "Un dernier jour sur GPT" (texte 2)
+
+3) que tu me donne une note sur 6 critères (enjoyment|characters|atmospher|writing| plot |logic) à ranger dans un tableau pour les 3 versions 
+
+4)parametre bonus : tu n'as pas la fin du livre, je veux que tu me dises les conséquences les plus probables d'évenements dans les pages (preciser nombre de pages en plus) 
+
+Une dernière chose, le texte est en français et je souhaite avoir tous les résultats en anglais 
+voila les instructions , pas la peine de répondre je t'envoie le gros morceau de texte. 
